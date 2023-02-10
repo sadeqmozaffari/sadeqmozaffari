@@ -32,8 +32,8 @@ Thanks for visiting my profile!
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 </div>
-
-
+<br/>
+<br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadeqmozaffari)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqmozaffari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 														   
