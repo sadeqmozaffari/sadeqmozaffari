@@ -3,7 +3,7 @@
 <p>
 My name is Sadeq, and I'm a Web Developer with a passion for coding and software development. I'm excited to share my projects with the world, and I hope you find something here that interests you. 
 
-On my profile, you'll find a variety of projects that I've worked on, ranging from web applications to mobile apps. All of my projects are open source, so feel free to explore them and use them in your own projects. If you have any questions or feedback about any of my projects, please don't hesitate to reach out! 
+On my profile, you'll find a variety of projects that I've worked on, ranging from web applications to desktop apps. All of my projects are open source, so feel free to explore them and use them in your own projects. If you have any questions or feedback about any of my projects, please don't hesitate to reach out! 
 
 I'm always looking for new opportunities to collaborate with other developers, so if you're interested in working together on something, please let me know. 
 
