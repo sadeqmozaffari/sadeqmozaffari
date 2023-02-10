@@ -34,11 +34,10 @@ Thanks for visiting my profile!
 </div>
 
 
-<a href="https://github.com/sadeqmozaffari/github-readme-stats">
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqmozaffari&layout=compact)](https://github.com/sadeqmozaffari/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sadeqmozaffari&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/sadeqmozaffari/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sadeqmozaffari&repo=convoychat" />
 </a>
 
