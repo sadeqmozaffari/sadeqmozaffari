@@ -11,10 +11,6 @@ Thanks for visiting my profile!
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeqmozaffari&label=Profile%20views&color=0e75b6&style=flat" alt="sadeqmozaffari" /> </p>
 
-- 🔭 I’m currently working on **Design of Websites**
-
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **sadeqmozaffari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
