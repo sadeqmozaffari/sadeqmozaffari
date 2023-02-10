@@ -34,13 +34,8 @@ Thanks for visiting my profile!
 </div>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadeqmozaffari&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadeqmozaffari&repo=convoychat" />
-</a>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadeqmozaffari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqmozaffari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 														   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
