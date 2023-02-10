@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sadeq Mozaffari</h1>
 <h3 align="center">A passionate Web developer from Afghanistan</h3>
+<p>
+My name is Sadeq, and I'm a Web Developer with a passion for coding and software development. I'm excited to share my projects with the world, and I hope you find something here that interests you. 
 
+On my profile, you'll find a variety of projects that I've worked on, ranging from web applications to mobile apps. All of my projects are open source, so feel free to explore them and use them in your own projects. If you have any questions or feedback about any of my projects, please don't hesitate to reach out! 
+
+I'm always looking for new opportunities to collaborate with other developers, so if you're interested in working together on something, please let me know. 
+
+Thanks for visiting my profile!
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeqmozaffari&label=Profile%20views&color=0e75b6&style=flat" alt="sadeqmozaffari" /> </p>
 
 - 🔭 I’m currently working on **Design of Websites**
