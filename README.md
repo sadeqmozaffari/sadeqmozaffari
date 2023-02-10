@@ -35,8 +35,12 @@ Thanks for visiting my profile!
 
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeqmozaffari&show_icons=true&locale=en&layout=compact" alt="sadeqmozaffari" /></p>
+<a href="https://github.com/sadeqmozaffari/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadeqmozaffari&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/sadeqmozaffari/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadeqmozaffari&repo=convoychat" />
+</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
