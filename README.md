@@ -34,7 +34,9 @@ Thanks for visiting my profile!
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqmozaffari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqmozaffari&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
