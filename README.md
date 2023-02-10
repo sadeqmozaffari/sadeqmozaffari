@@ -15,8 +15,8 @@ Thanks for visiting my profile!
   <img src="https://komarev.com/ghpvc/?username=sadeqmozaffari&label=Profile%20views&color=0e75b6&style=flat" alt="sadeqmozaffari" /> 
 </p>
 
-<h3 align="center"> Technologies :</h3>																 
-<div align="center">
+<h3 align=""> Technologies :</h3>																 
+<div align="">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass" /></code>
