@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadeq Mozaffari</h1>
-<h3 align="center">A passionate Web developer from Afghanistan</h3>
+<h3 align="center">A passionate Web developer</h3>
 <p>
 My name is Sadeq, and I'm a Web Developer with a passion for coding and software development. I'm excited to share my projects with the world, and I hope you find something here that interests you. 
 
