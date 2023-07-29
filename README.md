@@ -37,7 +37,7 @@ I'm always looking for new opportunities to collaborate with other developers, s
 
 <hr/>
 
-![Sadeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeqmozaffari&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqmozaffari&hide_progress=true)
 <img align="right" alt="GIF" src="https://github.com/sadeqmozaffari/sadeqmozaffari/blob/main/code.gif?raw=true" width="400" height="280" />
 
 Thanks for visiting my profile!
