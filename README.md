@@ -74,9 +74,6 @@ I’m open to collaborating on new projects with developers. If you're intereste
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
@@ -97,7 +94,7 @@ I’m open to collaborating on new projects with developers. If you're intereste
 
 
 <img align="right" alt="GIF" src="https://github.com/sadeqmozaffari/sadeqmozaffari/blob/main/code.gif?raw=true" width="400" height="280" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeqmozaffari&" alt="sadeqmozaffari" /></p>
+
 
 <p>
 Thanks for visiting my profile!  
